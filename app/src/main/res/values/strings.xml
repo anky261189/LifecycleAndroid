@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LifecycleAndroid</string>
+    <string name="loginName">Login</string>
+</resources>
